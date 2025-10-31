@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chris Barkley</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Chris Barkley</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>35mm</title>
+      <link>http://localhost:1313/35mm/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/35mm/</guid>
+      <description>&lt;link href=&#34;http://localhost:1313/css/lightbox.min.css&#34; rel=&#34;stylesheet&#34;&gt;
+&lt;script src=&#34;https://code.jquery.com/jquery-3.7.1.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;http://localhost:1313/js/lightbox.min.js&#34;&gt;&lt;/script&gt;
+&lt;style&gt;
+.lb-close {
+  display: none !important;
+}
+.lightbox::after {
+  content: &#34;[×]&#34;;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 14px;
+  color: #eecacaff;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 2px 6px;
+  border-radius: 3px;
+  cursor: pointer;
+  z-index: 9999;
+  pointer-events: auto;
+}
+.lb-image {
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  background: transparent !important;
+}
+.image-container {
+  text-align: center;
+}
+.image-caption {
+  font-size: 0.7rem;
+  margin-bottom: 6px;
+  color: #8b6464ff;
+}
+&lt;/style&gt;
+&lt;!-- start of gallery grid --&gt;
+&lt;div style=&#34;display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; max-width: 1200px; margin: 1rem auto;&#34;&gt;
+  &lt;!-- BATCH 3 IMAGES: MOTION SERIES --&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+   &lt;p class=&#34;image-caption&#34;&gt;Motion, Alex&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>bacca</title>
+      <link>http://localhost:1313/bacca/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bacca/</guid>
+      <description>&lt;style&gt;
+  .pub-list {
+    list-style: none;
+    padding: 0;
+    margin: 2rem 0;
+  }
+
+  .pub-list li {
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+  }
+
+  .pub-list a {
+    text-decoration: none;
+    color: #2c3e50;
+    border-bottom: 1px solid #ccc;
+    transition: border-color 0.3s;
+  }
+
+  .pub-list a:hover {
+    border-color: #999;
+  }
+
+  .image-container {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.featured-photo {
+  max-width: 400px;   /* &lt;- make this number smaller or bigger */
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;     /* centers the image */
+}
+.image-caption {
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+.download-link {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #fef200;
+  color: #111;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+}
+
+.download-link:hover {
+  background-color: #ffd900;
+}
+&lt;/style&gt;
+&lt;div style=&#34;
+  max-width: 800px;
+  margin: 2rem auto 0 auto;
+  padding-right: 2rem;
+  font-family: -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  font-weight: 300;
+  line-height: 1.6;
+  color: #2c3e50;
+&#34;&gt;
+  &lt;p&gt;
+    When my daughter was 7, she tried to insult my girlfriend by taunting her with the following diss: 
+    &lt;em&gt;Why is your waist so tiny and your butt so big?&lt;/em&gt;
+  &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I salute you</title>
+      <link>http://localhost:1313/i-salute-you/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/i-salute-you/</guid>
+      <description>&lt;style&gt;
+  .pub-list {
+    list-style: none;
+    padding: 0;
+    margin: 2rem 0;
+  }
+
+  .pub-list li {
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+  }
+
+  .pub-list a {
+    text-decoration: none;
+    color: #2c3e50;
+    border-bottom: 1px solid #ccc;
+    transition: border-color 0.3s;
+  }
+
+  .pub-list a:hover {
+    border-color: #999;
+  }
+&lt;/style&gt;
+&lt;div style=&#34;
+  max-width: 800px;
+  margin: 2rem auto 0 auto;
+  padding-right: 2rem;
+  font-family: -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  font-weight: 300;
+  line-height: 1.6;
+  color: #2c3e50;
+&#34;&gt;
+&lt;p&gt;
+I was lucky to lead a participatory research project about mental health and masculinity with adolescent boys and young men in Alexandra. We transformed research findings into a rap song and a stop-motion video, written, performed, and illustrated by the young men themselves.
+&lt;p&gt;
+&lt;p&gt;Read more about the project here:&lt;p&gt; 
+ &lt;a href=&#34;https://grassrootsoccer.org/i-salute-you/&#34; target=&#34;_blank&#34;&gt;
+ Ngiyak&#39;Vuma Ntwana / I Salute You
+    &lt;/a&gt;
+&lt;p&gt;And watch the music video here: &lt;p&gt; 
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/YO6PpYm8buY?si=7FbTycdB0A43GTtD&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Scribbles</title>
+      <link>http://localhost:1313/scribbles/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/scribbles/</guid>
+      <description>&lt;link href=&#34;http://localhost:1313/css/lightbox.min.css&#34; rel=&#34;stylesheet&#34;&gt;
+&lt;script src=&#34;https://code.jquery.com/jquery-3.7.1.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;http://localhost:1313/js/lightbox.min.js&#34;&gt;&lt;/script&gt;
+&lt;style&gt;
+.lb-close {
+  display: none !important;
+}
+.lightbox::after {
+  content: &#34;[×]&#34;;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 14px;
+  color: #eecacaff;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 2px 6px;
+  border-radius: 3px;
+  cursor: pointer;
+  z-index: 9999;
+  pointer-events: auto;
+}
+.lb-image {
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  background: transparent !important;
+}
+.image-container {
+  text-align: center;
+}
+.image-caption {
+  font-size: 0.9rem;
+  margin-bottom: 6px;
+  color: #333;
+}
+&lt;/style&gt;
+&lt;div style=&#34;display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 960px; margin: auto;&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;p class=&#34;image-caption&#34;&gt;Tree Puberty&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;style&gt;
+  .pub-list {
+    list-style: none;
+    padding: 0;
+    margin: 2rem 0;
+  }
+
+  .pub-list li {
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+  }
+
+  .pub-list a {
+    text-decoration: none;
+    color: #2c3e50;
+    border-bottom: 1px solid #ccc;
+    transition: border-color 0.3s;
+  }
+
+  .pub-list a:hover {
+    border-color: #999;
+  }
+&lt;/style&gt;
+&lt;ul class=&#34;pub-list&#34;&gt;
+  &lt;li&gt;
+    &lt;a href=&#34;https://www.mdpi.com/1660-4601/22/8/1281&#34; target=&#34;_blank&#34;&gt;
+      A Gamified Digital Mental Health Game
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href=&#34;https://sahr.hst.org.za/article/141588-lessons-learnt-from-integrating-mental-health-into-sport-based-adolescent-sexual-and-reproductive-health-programmes-in-south-africa?auth_token=CS1Gf4-JerqwpQjRford&#34; target=&#34;_blank&#34;&gt;
+      Lessons from Integrating Mental Health into Reproductive Health Programs
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/17430437.2014.997586&#34; target=&#34;_blank&#34;&gt;
+      Using Soccer to Build Confidence and Increase HIV Testing
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href=&#34;https://pmc.ncbi.nlm.nih.gov/articles/PMC6613633/&#34; target=&#34;_blank&#34;&gt;
+      Mixed-methods Assessment of a Soccer-based HIV Prevention Program
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href=&#34;https://www.routledge.com/Routledge-Handbook-of-Sport-for-Development-and-Peace/Collison-Darnell-Giulianotti-Howe/p/book/9781138210486&#34; target=&#34;_blank&#34;&gt;
+      Routledge Handbook of Sport for Development and Peace, Chapter: SDP and Health
+    &lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

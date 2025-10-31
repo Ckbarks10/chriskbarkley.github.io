@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ .Title }}</title>
+  <link rel="stylesheet" href="/css/styles.css">
+ <style>
+  body {
+    margin: 0;
+    padding: 2rem; /* match list layout */
+    background-color: #ffffff;
+    font-family: sans-serif; /* match list layout */
+    color: #333;
+    line-height: 1.6;
+  }
+
+  header.site-header {
+    background-color: #fef200;
+    padding: 3rem 1rem; /* match list layout */
+    text-align: left;
+    position: relative;
+  }
+
+  header.site-header h1 {
+    font-family: 'Courier New', monospace; /* match list layout */
+    font-size: 3rem;
+    margin: 0;
+    color: #111;
+  }
+
+  header.site-header a.home-link {
+    position: absolute;
+    left: 2rem;
+    top: 2rem;
+    font-size: 1.1rem;
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  header.site-header a.home-link:hover {
+    text-decoration: underline;
+  }
+
+  main.content-area {
+    max-width: 800px;
+    margin: 2rem auto; /* match list layout */
+  }
+
+  audio, video {
+    display: block;
+    margin: 3rem auto;
+    max-width: 70%;
+    height: auto;
+  }
+</style>
+
+</head>
+<body>
+
+<header class="site-header">
+  <a href="/" class="home-link">Home</a>
+  <h1>{{ .Title }}</h1>
+</header>
+
+<main class="content-area">
+  {{ .Content }}
+</main>
+
+</body>
+</html>

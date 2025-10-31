@@ -1,0 +1,18 @@
+baseURL = "http://example.com/"
+languageCode = "en-us"
+title = "Chris Barkley"
+theme = "PaperMod"
+
+pluralizeListTitles = false
+
+[params]
+  defaultTheme = "light"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  homeInfoParams = { Title = "Welcome to my work", Content = "Writing, photography, videography, and research" }
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
