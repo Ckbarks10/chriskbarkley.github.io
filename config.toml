@@ -1,0 +1,45 @@
+baseURL = "https://chriskbarkley.com/"
+languageCode = "en-us"
+title = "Chris Barkley"
+theme = "PaperMod"
+
+pluralizeListTitles = false
+enableRobotsTXT = true
+publishDir = "docs"
+
+# ---------------------------
+# 🧭 SEO & Indexing
+# ---------------------------
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+# Meta info for search snippets
+[params]
+  defaultTheme = "light"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  homeInfoParams = { Title = "Welcome to my work", Content = "Writing, photography, videography, and research" }
+
+  description = "Chris Barkley's portfolio – creative, research, and storytelling at the intersection of mental health, sport, and art."
+  author = "Chris Barkley"
+
+  customCSS = ["css/custom.css"]
+
+# ---------------------------
+# 🧩 Markup / HTML rendering
+# ---------------------------
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# ---------------------------
+# 📈 Google Analytics (optional)
+# ---------------------------
+[services]
+  [services.googleAnalytics]
+    id = ""  # Add your GA ID here later, e.g. G-XXXXXXX
+

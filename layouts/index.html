@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Chris Barkley</title>
+  <link rel="stylesheet" href="/css/styles.css">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #ffffff;
+      font-family: sans-serif;
+    }
+
+    header.site-header {
+      background-color: #fef200; /* bright yellow */
+      padding: 3rem 1rem;
+      text-align: left;
+    }
+
+    header.site-header h1 {
+      font-family: 'Courier New', monospace;
+      font-size: 3rem;
+      margin: 0;
+      color: #111;
+    }
+
+    .projects-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 960px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
+    .project-card {
+      text-align: center;
+      border: none;
+      padding: 1rem;
+      text-decoration: none;
+      color: inherit;
+      transition: 0.3s;
+    }
+
+    .project-card:hover {
+      background: #f9f9f9;
+    }
+
+    .project-card img {
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+      margin-bottom: 0.5rem;
+    }
+
+    .project-card h2 {
+      font-size: 1.1rem;
+      margin-bottom: 0.3rem;
+      font-weight: 300;
+      color: #8d8b8b;
+      font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Light", "Helvetica", "Segoe UI", sans-serif;
+    }
+  </style>
+</head>
+<body>
+
+  <header class="site-header">
+    <h1>Chris Barkley</h1>
+  </header>
+
+<div class="projects-grid">
+
+  <a href="/35mm/" class="project-card">
+    <img src="/images/35mm-thumb.jpg" alt="35mm thumbnail">
+    <div class="project-text">
+      <strong>35mm photo gallery</strong><br>
+      Collection of photos taken on my Olympus Trip (1967).
+    </div>
+  </a>
+
+  <a href="/bacca" class="project-card">
+    <img src="/images/bacca-thumb.jpg" alt="Bacca thumbnail">
+    <div class="project-text">
+      <strong>Bacca</strong><br>
+      Two young musicians in Lagos turn a 7-yr old's hook into an afrobeat song.
+    </div>
+  </a>
+
+  <a href="/i-salute-you" class="project-card">
+    <img src="/images/salute-thumb.jpg" alt="I Salute You thumbnail">
+    <div class="project-text">
+      <strong>I salute you</strong><br>
+      Youth articipatory music project about masculinity and mental health in Alexandra, South Africa.
+    </div>
+  </a>
+
+  <a href="/publications" class="project-card">
+    <img src="/images/publications-thumb.jpg" alt="Publications thumbnail">
+    <div class="project-text">
+      <strong>Research publications</strong><br>
+      Journal articles. 
+    </div>
+  </a>
+
+  <a href="/scribbles" class="project-card">
+    <img src="/images/scribbles-thumb.jpg" alt="Scribbles thumbnail">
+    <div class="project-text">
+      <strong>Scribbles</strong><br>
+      Notes and poems. 
+    </div>
+  </a>
+
+</div>
