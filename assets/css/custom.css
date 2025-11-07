@@ -1,9 +1,87 @@
-/* Custom overrides for PaperMod */
+/* --------------------------------------------------
+   📱 Custom Responsive Overrides for PaperMod
+   -------------------------------------------------- */
+
+/* === Images === */
 img {
   max-width: 100%;
   height: auto;
+  display: block;
+  border-radius: 4px;
 }
 
+/* === Page Layout === */
 body {
   overflow-x: hidden; /* prevents horizontal scrollbars on mobile */
+  margin: 0;
+  padding: 0;
+}
+
+/* Constrain text and content width */
+main, article, section {
+  max-width: 90%;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+/* === Typography === */
+h1, h2, h3 {
+  word-wrap: break-word;
+  line-height: 1.2;
+}
+p {
+  font-size: 1rem;
+}
+
+/* === Video & Audio Responsiveness === */
+
+/* Make video containers scale to screen width */
+video,
+iframe,
+.embed-responsive {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem 0;
+  border-radius: 8px;
+}
+
+/* Center audio players and prevent overflow */
+audio {
+  width: 100%;
+  max-width: 100%;
+  display: block;
+  margin: 1rem auto;
+}
+
+/* === Tablet screens (up to 768px) === */
+@media (max-width: 768px) {
+  header.site-header h1 {
+    font-size: 1.8rem;
+  }
+  main, article, section {
+    max-width: 95%;
+  }
+  p {
+    font-size: 0.95rem;
+  }
+  nav, footer {
+    text-align: center;
+  }
+}
+
+/* === Small phones (up to 480px) === */
+@media (max-width: 480px) {
+  header.site-header {
+    padding: 1.5rem 1rem;
+  }
+  header.site-header h1 {
+    font-size: 1.4rem;
+  }
+  img {
+    border-radius: 6px;
+  }
+  video, iframe {
+    border-radius: 6px;
+  }
 }
