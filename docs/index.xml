@@ -1,298 +1,269 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Chris Barkley</title>
-    <link>https://chriskbarkley.com/</link>
-    <description>Recent content on Chris Barkley</description>
-    <generator>Hugo -- 0.151.0</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://chriskbarkley.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>35mm</title>
-      <link>https://chriskbarkley.com/35mm/</link>
-      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://chriskbarkley.com/35mm/</guid>
-      <description>&lt;link href=&#34;https://chriskbarkley.com/css/lightbox.min.css&#34; rel=&#34;stylesheet&#34;&gt;
-&lt;script src=&#34;https://code.jquery.com/jquery-3.7.1.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://chriskbarkley.com/js/lightbox.min.js&#34;&gt;&lt;/script&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Chris Barkley</title><link>https://chriskbarkley.com/</link><description>Recent content on Chris Barkley</description><generator>Hugo -- 0.151.0</generator><language>en-us</language><lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://chriskbarkley.com/index.xml" rel="self" type="application/rss+xml"/><item><title>35mm</title><link>https://chriskbarkley.com/35mm/</link><pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate><guid>https://chriskbarkley.com/35mm/</guid><description>&lt;link href="https://chriskbarkley.com/css/lightbox.min.css" rel="stylesheet"&gt;
+&lt;script src="https://code.jquery.com/jquery-3.7.1.min.js"&gt;&lt;/script&gt;
+&lt;script src="https://chriskbarkley.com/js/lightbox.min.js"&gt;&lt;/script&gt;
 &lt;style&gt;
 .lb-close {
-  display: none !important;
+display: none !important;
 }
 .lightbox::after {
-  content: &#34;[×]&#34;;
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  font-size: 14px;
-  color: #eecacaff;
-  background: rgba(0, 0, 0, 0.4);
-  padding: 2px 6px;
-  border-radius: 3px;
-  cursor: pointer;
-  z-index: 9999;
-  pointer-events: auto;
+content: "[×]";
+position: absolute;
+top: 10px;
+right: 10px;
+font-size: 14px;
+color: #eecacaff;
+background: rgba(0, 0, 0, 0.4);
+padding: 2px 6px;
+border-radius: 3px;
+cursor: pointer;
+z-index: 9999;
+pointer-events: auto;
 }
 .lb-image {
-  border: none !important;
-  box-shadow: none !important;
-  padding: 0 !important;
-  background: transparent !important;
+border: none !important;
+box-shadow: none !important;
+padding: 0 !important;
+background: transparent !important;
 }
 .image-container {
-  text-align: center;
+text-align: center;
 }
 .image-caption {
-  font-size: 0.7rem;
-  margin-bottom: 6px;
-  color: #8b6464ff;
+font-size: 0.7rem;
+margin-bottom: 6px;
+color: #8b6464ff;
 }
 &lt;/style&gt;
 &lt;!-- start of gallery grid --&gt;
-&lt;div style=&#34;display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; max-width: 1200px; margin: 1rem auto;&#34;&gt;
-  &lt;!-- BATCH 3 IMAGES: MOTION SERIES --&gt;
-  &lt;div class=&#34;image-container&#34;&gt;
-   &lt;p class=&#34;image-caption&#34;&gt;Motion, Alex&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>bacca</title>
-      <link>https://chriskbarkley.com/bacca/</link>
-      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://chriskbarkley.com/bacca/</guid>
-      <description>&lt;style&gt;
-  .pub-list {
-    list-style: none;
-    padding: 0;
-    margin: 2rem 0;
-  }
-
-  .pub-list li {
-    margin-bottom: 1.5rem;
-    font-size: 1.1rem;
-  }
-
-  .pub-list a {
-    text-decoration: none;
-    color: #2c3e50;
-    border-bottom: 1px solid #ccc;
-    transition: border-color 0.3s;
-  }
-
-  .pub-list a:hover {
-    border-color: #999;
-  }
-
-  .image-container {
-  text-align: center;
-  margin: 2rem 0;
+&lt;div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; max-width: 1200px; margin: 1rem auto;"&gt;
+&lt;!-- BATCH 3 IMAGES: MOTION SERIES --&gt;
+&lt;div class="image-container"&gt;
+&lt;p class="image-caption"&gt;Motion, Alex&lt;/p&gt;</description></item><item><title>bacca</title><link>https://chriskbarkley.com/bacca/</link><pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate><guid>https://chriskbarkley.com/bacca/</guid><description>&lt;style&gt;
+.pub-list {
+list-style: none;
+padding: 0;
+margin: 2rem 0;
 }
-
+.pub-list li {
+margin-bottom: 1.5rem;
+font-size: 1.1rem;
+}
+.pub-list a {
+text-decoration: none;
+color: #2c3e50;
+border-bottom: 1px solid #ccc;
+transition: border-color 0.3s;
+}
+.pub-list a:hover {
+border-color: #999;
+}
+.image-container {
+text-align: center;
+margin: 2rem 0;
+}
 .featured-photo {
-  max-width: 400px;   /* &lt;- make this number smaller or bigger */
-  width: 100%;
-  height: auto;
-  border-radius: 10px;
-  display: block;
-  margin: 0 auto;     /* centers the image */
+max-width: 400px; /* &lt;- make this number smaller or bigger */
+width: 100%;
+height: auto;
+border-radius: 10px;
+display: block;
+margin: 0 auto; /* centers the image */
 }
 .image-caption {
-  font-size: 0.9rem;
-  color: #555;
-  margin-top: 0.5rem;
-  font-style: italic;
+font-size: 0.9rem;
+color: #555;
+margin-top: 0.5rem;
+font-style: italic;
 }
 .download-link {
-  display: inline-block;
-  margin-top: 1rem;
-  padding: 0.5rem 1rem;
-  background-color: #fef200;
-  color: #111;
-  text-decoration: none;
-  border-radius: 6px;
-  font-weight: 500;
+display: inline-block;
+margin-top: 1rem;
+padding: 0.5rem 1rem;
+background-color: #fef200;
+color: #111;
+text-decoration: none;
+border-radius: 6px;
+font-weight: 500;
 }
-
 .download-link:hover {
-  background-color: #ffd900;
+background-color: #ffd900;
 }
 &lt;/style&gt;
-&lt;div style=&#34;
-  max-width: 800px;
-  margin: 2rem auto 0 auto;
-  padding-right: 2rem;
-  font-family: -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-  font-weight: 300;
-  line-height: 1.6;
-  color: #2c3e50;
-&#34;&gt;
-  &lt;p&gt;
-    When my daughter was 7, she tried to insult my girlfriend by taunting her with the following diss: 
-    &lt;em&gt;Why is your waist so tiny and your butt so big?&lt;/em&gt;
-  &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>I salute you</title>
-      <link>https://chriskbarkley.com/i-salute-you/</link>
-      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://chriskbarkley.com/i-salute-you/</guid>
-      <description>&lt;style&gt;
-  .pub-list {
-    list-style: none;
-    padding: 0;
-    margin: 2rem 0;
-  }
-
-  .pub-list li {
-    margin-bottom: 1.5rem;
-    font-size: 1.1rem;
-  }
-
-  .pub-list a {
-    text-decoration: none;
-    color: #2c3e50;
-    border-bottom: 1px solid #ccc;
-    transition: border-color 0.3s;
-  }
-
-  .pub-list a:hover {
-    border-color: #999;
-  }
+&lt;div style="
+max-width: 800px;
+margin: 2rem auto 0 auto;
+padding-right: 2rem;
+font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+font-weight: 300;
+line-height: 1.6;
+color: #2c3e50;
+"&gt;
+&lt;p&gt;
+When my daughter was 7, she tried to insult my girlfriend by taunting her with the following diss:
+&lt;em&gt;Why is your waist so tiny and your butt so big?&lt;/em&gt;
+&lt;/p&gt;</description></item><item><title>I salute you</title><link>https://chriskbarkley.com/i-salute-you/</link><pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate><guid>https://chriskbarkley.com/i-salute-you/</guid><description>&lt;style&gt;
+.pub-list {
+list-style: none;
+padding: 0;
+margin: 2rem 0;
+}
+.pub-list li {
+margin-bottom: 1.5rem;
+font-size: 1.1rem;
+}
+.pub-list a {
+text-decoration: none;
+color: #2c3e50;
+border-bottom: 1px solid #ccc;
+transition: border-color 0.3s;
+}
+.pub-list a:hover {
+border-color: #999;
+}
 &lt;/style&gt;
-&lt;div style=&#34;
-  max-width: 800px;
-  margin: 2rem auto 0 auto;
-  padding-right: 2rem;
-  font-family: -apple-system, BlinkMacSystemFont, &#39;Helvetica Neue&#39;, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-  font-weight: 300;
-  line-height: 1.6;
-  color: #2c3e50;
-&#34;&gt;
+&lt;div style="
+max-width: 800px;
+margin: 2rem auto 0 auto;
+padding-right: 2rem;
+font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+font-weight: 300;
+line-height: 1.6;
+color: #2c3e50;
+"&gt;
 &lt;p&gt;
 I was lucky to lead a participatory research project about mental health and masculinity with adolescent boys and young men in Alexandra. We transformed research findings into a rap song and a stop-motion video, written, performed, and illustrated by the young men themselves.
 &lt;p&gt;
-&lt;p&gt;Read more about the project here:&lt;p&gt; 
- &lt;a href=&#34;https://grassrootsoccer.org/i-salute-you/&#34; target=&#34;_blank&#34;&gt;
- Ngiyak&#39;Vuma Ntwana / I Salute You
-    &lt;/a&gt;
-&lt;p&gt;And watch the music video here: &lt;p&gt; 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/YO6PpYm8buY?si=7FbTycdB0A43GTtD&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
-    </item>
-    <item>
-      <title>Scribbles</title>
-      <link>https://chriskbarkley.com/scribbles/</link>
-      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://chriskbarkley.com/scribbles/</guid>
-      <description>&lt;link href=&#34;https://chriskbarkley.com/css/lightbox.min.css&#34; rel=&#34;stylesheet&#34;&gt;
-&lt;script src=&#34;https://code.jquery.com/jquery-3.7.1.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://chriskbarkley.com/js/lightbox.min.js&#34;&gt;&lt;/script&gt;
-&lt;style&gt;
-.lb-close {
-  display: none !important;
+&lt;p&gt;Read more about the project here:&lt;p&gt;
+&lt;a href="https://grassrootsoccer.org/i-salute-you/" target="_blank"&gt;
+Ngiyak'Vuma Ntwana / I Salute You
+&lt;/a&gt;
+&lt;p&gt;And watch the music video here: &lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YO6PpYm8buY?si=7FbTycdB0A43GTtD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</description></item><item><title>Scribbles</title><link>https://chriskbarkley.com/scribbles/</link><pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate><guid>https://chriskbarkley.com/scribbles/</guid><description>&lt;style&gt;
+.toc {
+font-family: 'Courier New', monospace;
+font-size: 0.85rem;
+margin: 1.5rem 0 3rem 0;
+line-height: 2;
+color: #555;
 }
-.lightbox::after {
-  content: &#34;[×]&#34;;
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  font-size: 14px;
-  color: #eecacaff;
-  background: rgba(0, 0, 0, 0.4);
-  padding: 2px 6px;
-  border-radius: 3px;
-  cursor: pointer;
-  z-index: 9999;
-  pointer-events: auto;
+.toc a {
+color: #333;
+text-decoration: none;
 }
-.lb-image {
-  border: none !important;
-  box-shadow: none !important;
-  padding: 0 !important;
-  background: transparent !important;
+.toc a:hover {
+text-decoration: underline;
 }
-.image-container {
-  text-align: center;
+.piece {
+max-width: 640px;
+margin: 0 auto 4rem auto;
 }
-.image-caption {
-  font-size: 0.9rem;
-  margin-bottom: 6px;
-  color: #333;
+.piece h2 {
+font-family: 'Courier New', monospace;
+font-size: 1rem;
+text-transform: uppercase;
+letter-spacing: 0.12em;
+font-weight: bold;
+margin-bottom: 1.5rem;
+color: #111;
+}
+.piece p {
+font-family: 'Courier New', monospace;
+font-size: 0.88rem;
+line-height: 1.9;
+color: #222;
+margin-bottom: 1.2rem;
+}
+.poem {
+font-family: 'Courier New', monospace;
+font-size: 0.88rem;
+line-height: 2;
+color: #222;
+white-space: pre-line;
+margin-bottom: 1.2rem;
+}
+.rule {
+border: none;
+border-top: 1px solid #ddd;
+margin: 3.5rem auto;
+max-width: 640px;
 }
 &lt;/style&gt;
-&lt;div style=&#34;display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 960px; margin: auto;&#34;&gt;
-  &lt;div class=&#34;image-container&#34;&gt;
-    &lt;p class=&#34;image-caption&#34;&gt;Tree Puberty&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>publications</title>
-      <link>https://chriskbarkley.com/publications/</link>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://chriskbarkley.com/publications/</guid>
-      <description>&lt;style&gt;
-  .pub-list {
-    list-style: none;
-    padding: 0;
-    margin: 2rem 0;
-  }
-
-  .pub-list li {
-    margin-bottom: 1.5rem;
-    font-size: 1rem;
-  }
-
-  .pub-list a {
-    text-decoration: none;
-    color: #2c3e50;
-    transition: border-color 0.3s;
-  }
-
-  .pub-list a:hover {
-    border-color: #999;
-  }
+&lt;div class="toc"&gt;
+— contents —&lt;br&gt;
+&lt;a href="#grandpa"&gt;Grandpa&lt;/a&gt; &amp;nbsp;·&amp;nbsp;
+&lt;a href="#hiking"&gt;Hiking&lt;/a&gt; &amp;nbsp;·&amp;nbsp;
+&lt;a href="#prayer"&gt;Prayer&lt;/a&gt; &amp;nbsp;·&amp;nbsp;
+&lt;a href="#scented-memories"&gt;Scented Memories&lt;/a&gt; &amp;nbsp;·&amp;nbsp;
+&lt;a href="#three-simple-words"&gt;Three Simple Words&lt;/a&gt; &amp;nbsp;·&amp;nbsp;
+&lt;a href="#tidy-up"&gt;Tidy Up&lt;/a&gt; &amp;nbsp;·&amp;nbsp;
+&lt;a href="#tree-puberty"&gt;Tree Puberty&lt;/a&gt; &amp;nbsp;·&amp;nbsp;
+&lt;a href="#veeries"&gt;Veeries&lt;/a&gt; &amp;nbsp;·&amp;nbsp;
+&lt;a href="#walls"&gt;Walls&lt;/a&gt; &amp;nbsp;·&amp;nbsp;
+&lt;a href="#joe"&gt;Joe&lt;/a&gt; &amp;nbsp;·&amp;nbsp;
+&lt;a href="#conception"&gt;Conception&lt;/a&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;div class="piece" id="grandpa"&gt;
+&lt;h2&gt;Grandpa&lt;/h2&gt;
+&lt;p&gt;Grandpa, Uncle Bruce, and Dad built the 16 Wellesley solarium in the early 80s. Its tall windows and wooden beams extended the house to the backyard garden. Later in life, with pride, Grandpa would ask me, "Do you know who built that solarium?" He asked me the same question every time we sat together in the solarium.&lt;/p&gt;</description></item><item><title>publications</title><link>https://chriskbarkley.com/publications/</link><pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate><guid>https://chriskbarkley.com/publications/</guid><description>&lt;style&gt;
+.pub-list {
+list-style: none;
+padding: 0;
+margin: 2rem 0;
+}
+.pub-list li {
+margin-bottom: 1.5rem;
+font-size: 1rem;
+}
+.pub-list a {
+text-decoration: none;
+color: #2c3e50;
+transition: border-color 0.3s;
+}
+.pub-list a:hover {
+border-color: #999;
+}
 &lt;/style&gt;
-&lt;ul class=&#34;pub-list&#34;&gt;
-  &lt;li&gt;
-    &lt;a href=&#34;https://www.mdpi.com/1660-4601/22/8/1281&#34; target=&#34;_blank&#34;&gt;
-      1. Barkley, C. K., Nyakonda, C. N., Kuthyola, K., Ndlovu, P., Lee, D., Dallos, A., Kofi-Armah, D., Obeng, P., &amp; Merrill, K. G. (2025). A Gamified Digital Mental Health Intervention Across Six Sub-Saharan African Countries: A Cross-Sectional Evaluation of a Large-Scale Implementation. International Journal of Environmental Research and Public Health, 22(8), 1281. 
-    &lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;a href=&#34;https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000365&#34;&gt;
-   2. Barkley, C., Mnculwane, S., Merrill, K. G., &amp; Kafaar, Z. (2026). “Being a man is like being put in a box”: A qualitative study of adolescent boys’ and young men’s understanding and experiences of mental health in an urban community in South Africa. PLOS Mental Health, 3(2), e0000365.
-  &lt;li&gt;
-    &lt;a href=&#34;https://sahr.hst.org.za/article/141588-lessons-learnt-from-integrating-mental-health-into-sport-based-adolescent-sexual-and-reproductive-health-programmes-in-south-africa?auth_token=CS1Gf4-JerqwpQjRford&#34; target=&#34;_blank&#34;&gt;
-     3. Lee, D. E. Z., Nkosi, Z., Nyakonda, C. N., Barkley, C., Dallos, A., Merrill, K. G., &amp; Malotana, M. (2025). Lessons learnt from integrating mental health into sport-based adolescent sexual and reproductive health programmes in South Africa. South African Health Review, 27, 163–174.
-    &lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/17430437.2014.997586&#34; target=&#34;_blank&#34;&gt;
-      4. Hershow, R., Gannett, K., Merrill, J., Kaufman, B. E., Barkley, C., DeCelles, J., &amp; Harrison, A. (2015). Using soccer to build confidence and increase HCT uptake among adolescent girls: A mixed-methods study of an HIV prevention programme in South Africa. Sport in Society, 18(8), 1009–1022.
-    &lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;a href=&#34;https://pmc.ncbi.nlm.nih.gov/articles/PMC6613633/&#34; target=&#34;_blank&#34;&gt;
-      5. Merrill, K. G., Merrill, J. C., Hershow, R. B., Barkley, C., Rakosa, B., DeCelles, J., &amp; Harrison, A. (2018). Linking at-risk South African girls to sexual violence and reproductive health services: A mixed-methods assessment of a soccer-based HIV prevention program and pilot SMS campaign. Evaluation and Program Planning, 70, 12–24.
-    &lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;a href=&#34;https://www.routledge.com/Routledge-Handbook-of-Sport-for-Development-and-Peace/Collison-Darnell-Giulianotti-Howe/p/book/9781138210486&#34; target=&#34;_blank&#34;&gt;
-      6. Collison, H., Darnell, S. C., Giulianotti, R., &amp; Howe, P. D. (Eds.). (2018). Routledge Handbook of Sport for Development and Peace. Routledge. https://doi.org/10.4324/9781315455174
-    &lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-  &lt;a href=&#34;https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1746268/full&#34;&gt;
-  7. Lee, D. E. Z., Nyauchi, B., Kihiu, M., Kimathi, R., Okoth, E. A., Chazara, A., Barkley, C. K., Dallos, A., Waruinge, S., Oyaro, P., Kithinji, C. M., Cerna-Turoff, I., Cohen, I., Merrill, K. G., &amp; Otiso, L. (2026). The MindSKILLZ sport-based mental health promotion intervention for adolescents in Kenya: A mixed methods pilot study. Frontiers in Public Health, 14. https://doi.org/10.3389/fpubh.2026.1746268
-  &lt;a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-  &lt;a href=&#34;https://www.sportanddev.org/sites/default/files/2023-07/MoreThanJustAGame.pdf&#34;&gt;
-  8. Barkley, C., Warren, J., &amp; Sanders, B. (2016). More Than Just A Game: Sport as a Communication Platform in Sexuality Education for Adolescent Girls. Grassroot Soccer, Inc
-  &lt;/li&gt;
-  &lt;li&gt;
-  &lt;a href=&#34;https://orcid.org/0000-0002-9301-0050&#34;&gt;
-   ORCID
-   &lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;ul class="pub-list"&gt;
+&lt;li&gt;
+&lt;a href="https://www.mdpi.com/1660-4601/22/8/1281" target="_blank"&gt;
+1. Barkley, C. K., Nyakonda, C. N., Kuthyola, K., Ndlovu, P., Lee, D., Dallos, A., Kofi-Armah, D., Obeng, P., &amp; Merrill, K. G. (2025). A Gamified Digital Mental Health Intervention Across Six Sub-Saharan African Countries: A Cross-Sectional Evaluation of a Large-Scale Implementation. International Journal of Environmental Research and Public Health, 22(8), 1281.
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000365"&gt;
+2. Barkley, C., Mnculwane, S., Merrill, K. G., &amp; Kafaar, Z. (2026). “Being a man is like being put in a box”: A qualitative study of adolescent boys’ and young men’s understanding and experiences of mental health in an urban community in South Africa. PLOS Mental Health, 3(2), e0000365.
+&lt;li&gt;
+&lt;a href="https://sahr.hst.org.za/article/141588-lessons-learnt-from-integrating-mental-health-into-sport-based-adolescent-sexual-and-reproductive-health-programmes-in-south-africa?auth_token=CS1Gf4-JerqwpQjRford" target="_blank"&gt;
+3. Lee, D. E. Z., Nkosi, Z., Nyakonda, C. N., Barkley, C., Dallos, A., Merrill, K. G., &amp; Malotana, M. (2025). Lessons learnt from integrating mental health into sport-based adolescent sexual and reproductive health programmes in South Africa. South African Health Review, 27, 163–174.
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://www.tandfonline.com/doi/full/10.1080/17430437.2014.997586" target="_blank"&gt;
+4. Hershow, R., Gannett, K., Merrill, J., Kaufman, B. E., Barkley, C., DeCelles, J., &amp; Harrison, A. (2015). Using soccer to build confidence and increase HCT uptake among adolescent girls: A mixed-methods study of an HIV prevention programme in South Africa. Sport in Society, 18(8), 1009–1022.
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6613633/" target="_blank"&gt;
+5. Merrill, K. G., Merrill, J. C., Hershow, R. B., Barkley, C., Rakosa, B., DeCelles, J., &amp; Harrison, A. (2018). Linking at-risk South African girls to sexual violence and reproductive health services: A mixed-methods assessment of a soccer-based HIV prevention program and pilot SMS campaign. Evaluation and Program Planning, 70, 12–24.
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://www.routledge.com/Routledge-Handbook-of-Sport-for-Development-and-Peace/Collison-Darnell-Giulianotti-Howe/p/book/9781138210486" target="_blank"&gt;
+6. Collison, H., Darnell, S. C., Giulianotti, R., &amp; Howe, P. D. (Eds.). (2018). Routledge Handbook of Sport for Development and Peace. Routledge. https://doi.org/10.4324/9781315455174
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1746268/full"&gt;
+7. Lee, D. E. Z., Nyauchi, B., Kihiu, M., Kimathi, R., Okoth, E. A., Chazara, A., Barkley, C. K., Dallos, A., Waruinge, S., Oyaro, P., Kithinji, C. M., Cerna-Turoff, I., Cohen, I., Merrill, K. G., &amp; Otiso, L. (2026). The MindSKILLZ sport-based mental health promotion intervention for adolescents in Kenya: A mixed methods pilot study. Frontiers in Public Health, 14. https://doi.org/10.3389/fpubh.2026.1746268
+&lt;a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://www.sportanddev.org/sites/default/files/2023-07/MoreThanJustAGame.pdf"&gt;
+8. Barkley, C., Warren, J., &amp; Sanders, B. (2016). More Than Just A Game: Sport as a Communication Platform in Sexuality Education for Adolescent Girls. Grassroot Soccer, Inc
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://orcid.org/0000-0002-9301-0050"&gt;
+ORCID
+&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
