@@ -33,7 +33,7 @@ layout: "list"
   max-width: 800px;
   margin: 2rem auto 0 auto;
   padding-right: 2rem;
-  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  font-family: 'Courier New', monospace;
   font-weight: 300;
   line-height: 1.6;
   color: #2c3e50;
