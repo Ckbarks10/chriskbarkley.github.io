@@ -1,5 +1,5 @@
 ---
-title: "publications, ORCID: https://orcid.org/0000-0002-9301-0050"
+title: "publications"
 date: 2025-10-21
 draft: false
 layout: "list"
@@ -58,12 +58,16 @@ layout: "list"
     </a>
   </li>
   <li>
-  <a https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1746268/full>
+  <a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1746268/full">
   7. Lee, D. E. Z., Nyauchi, B., Kihiu, M., Kimathi, R., Okoth, E. A., Chazara, A., Barkley, C. K., Dallos, A., Waruinge, S., Oyaro, P., Kithinji, C. M., Cerna-Turoff, I., Cohen, I., Merrill, K. G., & Otiso, L. (2026). The MindSKILLZ sport-based mental health promotion intervention for adolescents in Kenya: A mixed methods pilot study. Frontiers in Public Health, 14. https://doi.org/10.3389/fpubh.2026.1746268
   <a>
   </li>
   <li>
-  <a https://www.sportanddev.org/sites/default/files/2023-07/MoreThanJustAGame.pdf>
-  Barkley, C., Warren, J., & Sanders, B. (2016). More Than Just A Game: Sport as a Communication Platform in Sexuality Education for Adolescent Girls. Grassroot Soccer, Inc
+  <a href="https://www.sportanddev.org/sites/default/files/2023-07/MoreThanJustAGame.pdf">
+  8. Barkley, C., Warren, J., & Sanders, B. (2016). More Than Just A Game: Sport as a Communication Platform in Sexuality Education for Adolescent Girls. Grassroot Soccer, Inc
   </li>
+  <li>
+  <a href="https://orcid.org/0000-0002-9301-0050">
+   ORCID
+   </li>
 </ul>
