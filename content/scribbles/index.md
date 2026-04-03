@@ -68,7 +68,8 @@ layout: "list"
 <a href="#veeries">Veeries</a> &nbsp;·&nbsp;
 <a href="#walls">Walls</a> &nbsp;·&nbsp;
 <a href="#joe">Joe</a> &nbsp;·&nbsp;
-<a href="#conception">Conception</a>
+<a href="#conception">Conception</a> &nbsp;·&nbsp;
+<a href="#devo">Devo</a>
 </div>
 
 ---
@@ -226,4 +227,12 @@ at Christmas; divine.</p>
 <p>In the 117th minute of extra time, Andrés Iniesta — a generational talent from the team I love, Barcelona — scored the only goal after a tense and fitful game, giving Spain its first World Cup victory. After, my best friend, girlfriend and I partied in Rosebank to the clacking of castanets in Sevilla, Catalan songs in Plaza España, and Basque cheers as thousands waved Spanish flags in the streets of Bilbao.</p>
 <p>9 months later, at 5pm on March 18, 2011, my daughter Nilah was born.</p>
 <p>It Was Written.</p>
+</div>
+
+<hr class="rule">
+
+<div class="piece" id="devo">
+<h2>Devo</h2>
+<p>It's important that you understand the genesis of Deven's mistrust of authority. He was three. Playing with pebbles in the driveway, where my mom's aqua Ford Escort was parked, when I noticed scratch marks across the length of the doors. Deven smiled, rocks in hands (yes, rocks were children's toys on Marsh Rd at the turn of the millennium), as I looked in horror at the disfigured panels. "Deven, what did you do you little gremlin monster child?" "Nothing," he replied meekly. In my defence, it was never nothing. "Nothing? You ruined the aqua paint by scraping the car!" I yanked him inside, tied him to a chair, shone a desk light into his soft brown eyes and, now accompanied by our father, pressed for a confession. "Tell us what you did. Admission of guilt will result in a lighter sentence." "But I didn't do anything. I didn't touch the car," he replied. We persisted. The evidence was compelling. Smoking pebbles and a history of mischievous behaviour. We just wanted him to admit his wrongdoing and apologize. To us. To my mom. To God. However, at three, the essence of his personality was already present. He was stubborn and defiant. He insisted he was innocent, and only after hours of interrogation, with his stomach growling and me — his revered eldest brother — glowering, did he confess. He lowered his head, crestfallen, and whispered, "I did it. I scratched the car with a rock."</p>
+<p>Later that day, when my friend called to say all the cars in the parking lot where I was parked overnight were keyed, I was horrified. I had forced my youngest brother to confess to a crime he didn't commit. I never forgave myself, and Deven would never trust authority again. He knew then, he'd have to rely on himself to make it in the world.</p>
 </div>
