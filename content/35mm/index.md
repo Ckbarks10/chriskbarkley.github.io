@@ -45,6 +45,147 @@ layout: "list"
 <!-- start of gallery grid -->
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; max-width: 1200px; margin: 1rem auto;">
 
+  <!-- BATCH 8 IMAGES -->
+  <div class="image-container">
+    <p class="image-caption">Mara</p>
+    <a href="/images/35mm/Mara.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/Mara.JPG" alt="Mara" style="width:100%;">
+    </a>
+  </div>
+
+  <div class="image-container">
+    <p class="image-caption">Gorillaz</p>
+    <a href="/images/35mm/Gorillaz.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/Gorillaz.JPG" alt="Gorillaz" style="width:100%;">
+    </a>
+  </div>
+
+  <div class="image-container">
+    <p class="image-caption">Nostos Dance 2, Athens</p>
+    <a href="/images/35mm/Nostos%20Dance%202,%20Athens.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/Nostos%20Dance%202,%20Athens.JPG" alt="Nostos Dance 2, Athens" style="width:100%;">
+    </a>
+  </div>
+
+  <div class="image-container">
+    <p class="image-caption">Nostos Dance, Athens</p>
+    <a href="/images/35mm/Nostos%20Dance,%20Athens.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/Nostos%20Dance,%20Athens.JPG" alt="Nostos Dance, Athens" style="width:100%;">
+    </a>
+  </div>
+
+  <div class="image-container">
+    <p class="image-caption">Athens</p>
+    <a href="/images/35mm/Athens.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/Athens.JPG" alt="Athens" style="width:100%;">
+    </a>
+  </div>
+
+  <div class="image-container">
+    <p class="image-caption">Mara & Nilah</p>
+    <a href="/images/35mm/Mara%20%26%20Nilah.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/Mara%20%26%20Nilah.JPG" alt="Mara & Nilah" style="width:100%;">
+    </a>
+  </div>
+
+  <div class="image-container">
+    <p class="image-caption">Aurora, CO 7</p>
+    <a href="/images/35mm/Aurora,%20CO%207.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/Aurora,%20CO%207.JPG" alt="Aurora, CO 7" style="width:100%;">
+    </a>
+  </div>
+
+  <div class="image-container">
+    <p class="image-caption">David, Aurora, CO 6</p>
+    <a href="/images/35mm/David,%20Aurora,%20CO%206.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/David,%20Aurora,%20CO%206.JPG" alt="David, Aurora, CO 6" style="width:100%;">
+    </a>
+  </div>
+
+  <div class="image-container">
+    <p class="image-caption">Aurora, CO 4</p>
+    <a href="/images/35mm/Aurora,%20CO%204.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/Aurora,%20CO%204.JPG" alt="Aurora, CO 4" style="width:100%;">
+    </a>
+  </div>
+
+  <div class="image-container">
+    <p class="image-caption">Aurora, CO 5</p>
+    <a href="/images/35mm/Aurora,%20CO%205.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/Aurora,%20CO%205.JPG" alt="Aurora, CO 5" style="width:100%;">
+    </a>
+  </div>
+
+  <div class="image-container">
+    <p class="image-caption">Aurora, CO 3</p>
+    <a href="/images/35mm/Aurora,%20CO%203.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/Aurora,%20CO%203.JPG" alt="Aurora, CO 3" style="width:100%;">
+    </a>
+  </div>
+
+  <div class="image-container">
+    <p class="image-caption">Aurora, CO 2</p>
+    <a href="/images/35mm/Aurora,%20CO%202.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/Aurora,%20CO%202.JPG" alt="Aurora, CO 2" style="width:100%;">
+    </a>
+  </div>
+
+  <div class="image-container">
+    <p class="image-caption">Aurora, CO</p>
+    <a href="/images/35mm/Aurora,%20CO.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/Aurora,%20CO.JPG" alt="Aurora, CO" style="width:100%;">
+    </a>
+  </div>
+
+  <div class="image-container">
+    <p class="image-caption">David, Aurora, CO</p>
+    <a href="/images/35mm/David,%20Aurora,%20CO.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/David,%20Aurora,%20CO.JPG" alt="David, Aurora, CO" style="width:100%;">
+    </a>
+  </div>
+
+  <div class="image-container">
+    <p class="image-caption">Se Uniu 2</p>
+    <a href="/images/35mm/Se%20Uniu%202.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/Se%20Uniu%202.JPG" alt="Se Uniu 2" style="width:100%;">
+    </a>
+  </div>
+
+  <div class="image-container">
+    <p class="image-caption">Plant</p>
+    <a href="/images/35mm/Plant.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/Plant.JPG" alt="Plant" style="width:100%;">
+    </a>
+  </div>
+
+  <div class="image-container">
+    <p class="image-caption">Se Uniu 4</p>
+    <a href="/images/35mm/Se%20Uniu%204.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/Se%20Uniu%204.JPG" alt="Se Uniu 4" style="width:100%;">
+    </a>
+  </div>
+
+  <div class="image-container">
+    <p class="image-caption">Se Uniu 6</p>
+    <a href="/images/35mm/Se%20Uniu%206.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/Se%20Uniu%206.JPG" alt="Se Uniu 6" style="width:100%;">
+    </a>
+  </div>
+
+  <div class="image-container">
+    <p class="image-caption">Se Uniu 5</p>
+    <a href="/images/35mm/Se%20Uniu%205.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/Se%20Uniu%205.JPG" alt="Se Uniu 5" style="width:100%;">
+    </a>
+  </div>
+
+  <div class="image-container">
+    <p class="image-caption">Se Uniu 3</p>
+    <a href="/images/35mm/Se%20Uniu%203.JPG" data-lightbox="gallery">
+      <img src="/images/35mm/Se%20Uniu%203.JPG" alt="Se Uniu 3" style="width:100%;">
+    </a>
+  </div>
+
   <!-- BATCH 3 IMAGES: MOTION SERIES -->
   <div class="image-container">
    <p class="image-caption">Motion, Alex</p>
